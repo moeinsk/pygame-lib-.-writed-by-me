@@ -1,0 +1,8 @@
+1 - install python 3.6
+
+2- install pygame library:
+write in smd or terminall::pip install pygame
+
+3- run the game and rnjoy it
+
+telegram id: @moeinprosk
